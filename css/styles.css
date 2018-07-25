@@ -1,10 +1,4 @@
-.row {
-  margin-bottom: 15px;
-}
-.row > div {
-  border: 2px solid blue;
-  background-color: #85BBE3;
-}
-.row > box {
-	border: 2px solid blue;
+.header-color
+{
+	background-color: grey;
 }
